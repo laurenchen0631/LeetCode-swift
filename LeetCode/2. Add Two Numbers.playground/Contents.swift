@@ -12,18 +12,6 @@ import UIKit
  * Output: 7 -> 0 -> 8
  */
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public var val: Int
- *     public var next: ListNode?
- *     public init(_ val: Int) {
- *         self.val = val
- *         self.next = nil
- *     }
- * }
- */
-
 public class ListNode {
 	public var val: Int
 	public var next: ListNode?

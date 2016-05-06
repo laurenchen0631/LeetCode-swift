@@ -23,10 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
 		896E69541CD533350049FEF4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		896E69571CD533350049FEF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
 		896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; };
+		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,8 @@
 				896E69571CD533350049FEF4 /* main.swift */,
 				896E695E1CD533660049FEF4 /* 1. Two Sum.playground */,
 				896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */,
+				89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */,
+				8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -245,6 +249,7 @@
 				896E695D1CD533350049FEF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
