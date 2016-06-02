@@ -7,6 +7,7 @@ import UIKit
  * Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
  */
 
+/* The time complexity muse less than O(m+n), which mean we can'y merge two sorted directly. */
 func findMedianSortedArrays(nums1: [Int], _ nums2: [Int]) -> Double {
 
 	var nums1Index: Int? = nums1.count > 0 ? nums1.startIndex : nil
