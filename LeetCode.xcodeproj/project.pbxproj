@@ -31,6 +31,7 @@
 		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
 		896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; };
 		897260041CE0C824003E37BC /* 7. Reverse Integer .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer .playground"; sourceTree = "<group>"; };
+		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
@@ -67,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				896E69571CD533350049FEF4 /* main.swift */,
+				897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */,
 				896E695E1CD533660049FEF4 /* 1. Two Sum.playground */,
 				896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */,
 				89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */,
@@ -107,11 +109,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = exwd;
 				TargetAttributes = {
 					896E69531CD533350049FEF4 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -158,8 +161,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
@@ -203,8 +208,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
@@ -223,6 +230,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
 			name = Release;
 		};
@@ -230,6 +238,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -237,6 +246,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};

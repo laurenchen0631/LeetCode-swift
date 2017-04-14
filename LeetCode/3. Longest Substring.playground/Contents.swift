@@ -34,11 +34,11 @@ func lengthOfLongestSubstring(s: String) -> Int {
 
 			record.remove(s[headIndex])
 			headNIndex += 1
-			headIndex = headIndex.successor()
+			headIndex = s.index(after: headIndex)
 		} else {
 			substringLength += 1
 			record.insert(char)
-			tailIndex = tailIndex.successor()
+            tailIndex = s.index(after: tailIndex)
 		}
 
 		if substringLength >= maxLength {
@@ -56,4 +56,4 @@ func lengthOfLongestSubstring(s: String) -> Int {
 // Then we can skip the characters immediately when we found a repeated character.
 
 let string = "aacdaadcff"
-print(lengthOfLongestSubstring(string))
+print(lengthOfLongestSubstring(s: string))

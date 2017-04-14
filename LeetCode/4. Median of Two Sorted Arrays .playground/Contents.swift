@@ -8,7 +8,7 @@ import UIKit
  */
 
 /* The time complexity muse less than O(m+n), which mean we can'y merge two sorted directly. */
-func findMedianSortedArrays(nums1: [Int], _ nums2: [Int]) -> Double {
+func findMedianSortedArrays(nums1: [Int], nums2: [Int]) -> Double {
 
 	var nums1Index: Int? = nums1.count > 0 ? nums1.startIndex : nil
 	var nums2Index: Int? = nums2.count > 0 ? nums2.startIndex : nil
@@ -19,17 +19,17 @@ func findMedianSortedArrays(nums1: [Int], _ nums2: [Int]) -> Double {
 		if nums1Index != nil && nums2Index != nil {
 			if nums1[nums1Index!] <= nums2[nums2Index!] {
 				num = nums1[nums1Index!]
-				nums1Index = nums1.count - nums1Index! > 1 ? nums1Index!.advancedBy(1) : nil
+                nums1Index = nums1.count - nums1Index! > 1 ? nums1.index(after: nums1Index!) : nil
 			} else {
 				num = nums2[nums2Index!]
-				nums2Index = nums2.count - nums2Index! > 1 ? nums2Index!.advancedBy(1) : nil
+                nums2Index = nums2.count - nums2Index! > 1 ? nums2.index(after: nums2Index!) : nil
 			}
 		} else if nums1Index != nil {
 			num = nums1[nums1Index!]
-			nums1Index = nums1.count - nums1Index! > 1 ? nums1Index!.advancedBy(1) : nil
+			nums1Index = nums1.count - nums1Index! > 1 ? nums1.index(after: nums1Index!) : nil
 		} else if nums2Index != nil {
 			num = nums2[nums2Index!]
-			nums2Index = nums2.count - nums2Index! > 1 ? nums2Index!.advancedBy(1) : nil
+			nums2Index = nums2.count - nums2Index! > 1 ? nums2.index(after: nums2Index!) : nil
 		}
 
 		return num
@@ -50,5 +50,5 @@ func findMedianSortedArrays(nums1: [Int], _ nums2: [Int]) -> Double {
 	return Double(num)
 }
 
-print(findMedianSortedArrays([1, 2, 3], [4, 5, 6]))
+print(findMedianSortedArrays(nums1: [1, 2, 3], nums2: [4, 5, 6]))
 

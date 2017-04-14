@@ -13,7 +13,8 @@ import UIKit
 // Int Max: 2147483647
 // Int Min: -2147483648
 func myAtoi(str: String) -> Int {
-	let str = str.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())
+    let str = str.trimmingCharacters(in: CharacterSet.whitespaces)
+    
 	if str.isEmpty {
 		return 0
 	}
@@ -24,7 +25,7 @@ func myAtoi(str: String) -> Int {
 	}
 
 	var endNIndex = 1
-	for s in str.substringFromIndex(str.startIndex.successor()).characters {
+	for s in str.substring(from: str.index(after: str.startIndex)).characters {
 		if (s >= "0" && s <= "9") {
 			endNIndex += 1
 		} else {
@@ -32,7 +33,6 @@ func myAtoi(str: String) -> Int {
 			break
 		}
 	}
-	print(endNIndex)
 
 //	if (firstChar == "+" || firstChar == "-") && endNIndex > 10 {
 //		endNIndex = 11
@@ -45,7 +45,7 @@ func myAtoi(str: String) -> Int {
 		endNIndex = 0
 	}
 
-	let numString = Int(str[str.startIndex ... str.startIndex.advancedBy(endNIndex)])
+	let numString = Int(str[str.startIndex ... str.index(str.startIndex, offsetBy: endNIndex)])
 	if numString == nil {
 		if endNIndex > 1 && firstChar == "-" {
 			return -2147483648
@@ -55,7 +55,7 @@ func myAtoi(str: String) -> Int {
 
 		return 0
 	} else {
-		print(numString)
+		
 		if numString! > 2147483647 {
 			return 2147483647
 		} else if numString! < -2147483648 {
@@ -68,6 +68,6 @@ func myAtoi(str: String) -> Int {
 let s1 = "-2147483647"
 let s2 = "-11919730356x"
 let s3 = "9223372036854775809"
-myAtoi(s3)
+myAtoi(str: s3)
 
 //Int("-3213213213213213213213213321321")

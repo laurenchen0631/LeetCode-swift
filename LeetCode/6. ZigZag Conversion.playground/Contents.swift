@@ -41,24 +41,27 @@ import UIKit
 
 // 0 1 1 0
 
-func convert(s: String, _ numRows: Int) -> String {
+func convert(s: String, rows numRows: Int) -> String {
 
+	// Make Sure that numRows is legal
 	if numRows == 0 {
 		return ""
 	} else if numRows == 1 {
 		return s
 	}
 
+	// store the characher index into its row
 	let n = s.characters.count
-	var rows: [[String.CharacterView.Index]] = Array(count: numRows, repeatedValue: [])
-
+	var rows: [[String.CharacterView.Index]] = Array(repeating: [], count: numRows)
+    
 	var shouldReverse = false
 	var r = 0
 	var index = s.startIndex
 	for _ in 0 ..< n {
 		rows[r] += [index]
-		index = index.successor()
-
+        index  = s.index(after: index)
+        
+        // ZigZg order
 		if r == numRows - 1 {
 			shouldReverse = true
 		} else if r == 0 {
@@ -84,4 +87,4 @@ func convert(s: String, _ numRows: Int) -> String {
 // P P A S
 // A Y L I
 
-convert("PAYPALISHIRING", 2)
+convert(s: "PAYPALISHIRING", rows: 2)

@@ -20,5 +20,5 @@ func reverse(x: Int) -> Int {
 	return num;
 }
 
-reverse(1534236469)
-reverse(-123)
+reverse(x: 1534236469)
+reverse(x: -123)

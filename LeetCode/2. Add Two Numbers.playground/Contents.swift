@@ -22,11 +22,11 @@ public class ListNode {
 }
 //print(30 % 7)
 
-func addTwoNumbers(l1: ListNode?, _ l2: ListNode?) -> ListNode? {
-	return addTwoNumber(l1, l2, false)
+func addTwoNumbers(l1: ListNode?, l2: ListNode?) -> ListNode? {
+    return addTwoNumber(l1: l1, l2: l2, carry: false)
 }
 
-func addTwoNumber(l1: ListNode?, _ l2: ListNode?, _ carry: Bool) -> ListNode? {
+func addTwoNumber(l1: ListNode?, l2: ListNode?, carry: Bool) -> ListNode? {
 
 	if l1 == nil && l2 == nil {
 		return carry ? ListNode(1) : nil
@@ -37,7 +37,7 @@ func addTwoNumber(l1: ListNode?, _ l2: ListNode?, _ carry: Bool) -> ListNode? {
 
 	let sum = value1 + value2 + (carry ? 1 : 0)
 	let head: ListNode = ListNode(sum % 10)
-	head.next = addTwoNumber(l1!.next, l2!.next, sum >= 10)
+    head.next = addTwoNumber(l1: l1!.next, l2: l2!.next, carry: sum >= 10)
 
 	return head
 }
@@ -50,5 +50,5 @@ let l2 = ListNode(5)
 l2.next = ListNode(6)
 l2.next?.next = ListNode(4)
 
-let x = addTwoNumbers(l1, l2)
+let x = addTwoNumbers(l1: l1, l2: l2)
 x?.next?.next?.val
