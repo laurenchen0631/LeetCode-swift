@@ -90,8 +90,6 @@ func isMatch(characters: [Character], with regexes: [String]) -> Bool {
 			return false
 		}
 	}
-	
-	return false
 }
 
 // return the formatted regex symbol array

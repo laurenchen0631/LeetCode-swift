@@ -33,6 +33,9 @@
 		897260041CE0C824003E37BC /* 7. Reverse Integer .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer .playground"; sourceTree = "<group>"; };
 		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
+		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
+		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
+		89C541FF1EA20317008FCC27 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,7 +70,10 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89C541FF1EA20317008FCC27 /* 13. Roman to Integer.playground */,
 				896E69571CD533350049FEF4 /* main.swift */,
+				89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */,
+				89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */,
 				897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */,
 				896E695E1CD533660049FEF4 /* 1. Two Sum.playground */,
 				896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */,
