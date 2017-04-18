@@ -40,6 +40,7 @@
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
+		89F85E011EA5F72B000EA501 /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89F85E011EA5F72B000EA501 /* 16. 3Sum Closest.playground */,
 				89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */,
 				898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */,
 				89C541FF1EA20317008FCC27 /* 13. Roman to Integer.playground */,
