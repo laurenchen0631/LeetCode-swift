@@ -1,7 +1,7 @@
 /******************************************************************
- Given an array S of n integers, find three integers in S such that 
- the sum is closest to a given number, target. 
- Return the sum of the three integers. 
+ Given an array S of n integers, find three integers in S such that
+ the sum is closest to a given number, target.
+ Return the sum of the three integers.
  You may assume that each input would have exactly one solution.
  
  For example, given array S = {-1 2 1 -4}, and target = 1.
@@ -19,7 +19,6 @@ func threeSumClosest(_ nums: [Int], _ target: Int) -> Int {
     // loop  as the way in problem 15
     for i in 0...length - 3 {
         let x = sortedNums[i]
-        let complement = -x
         
         var front = i + 1
         var back = length - 1
