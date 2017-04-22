@@ -78,22 +78,22 @@ class ListNode {
         self.next = nil
     }
 }
-
-let head: ListNode = ListNode(1)
-var node: ListNode? = head
-for i in 2...5 {
-    node?.next = ListNode(i)
-    node = node?.next
-}
-
-node = head
-while node != nil {
-    print(node!.val)
-    node = node?.next
-}
-
-node = removeNthFromEnd(head, 2)
-while node != nil {
-    print(node!.val)
-    node = node!.next
-}
+//
+//let head: ListNode = ListNode(1)
+//var node: ListNode? = head
+//for i in 2...5 {
+//    node?.next = ListNode(i)
+//    node = node?.next
+//}
+//
+//node = head
+//while node != nil {
+//    print(node!.val)
+//    node = node?.next
+//}
+//
+//node = removeNthFromEnd(head, 2)
+//while node != nil {
+//    print(node!.val)
+//    node = node!.next
+//}
