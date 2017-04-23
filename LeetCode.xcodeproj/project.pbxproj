@@ -44,6 +44,7 @@
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
+		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */,
 				895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */,
 				892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */,
 				892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */,
