@@ -18,15 +18,15 @@ func swapPairs(_ head: ListNode?) -> ListNode? {
     // find a pair of nodes unitl no more node can be paired
     let dummyHead = ListNode(0)
     var currentNode = head
-    var pairTail = dummyHead
+    var prevPair = dummyHead
     while let aNode = currentNode, let bNode = currentNode?.next {
         swap(a: aNode, b: bNode)
         // a->b->c becomes b->a->c
         currentNode = aNode.next
         
         // connect the swap pair to the previous pair
-        pairTail.next = bNode
-        pairTail = aNode
+        prevPair.next = bNode
+        prevPair = aNode
     }
     
     return dummyHead.next
@@ -46,4 +46,3 @@ class ListNode {
         self.next = nil
     }
 }
-
