@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
+		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
 		892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
@@ -82,6 +84,8 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				891254421EAF0461006B6D22 /* 27. Remove Element.playground */,
+				891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */,
 				89FEDD481EAD952700FDA9E2 /* 25. Reverse Nodes in k-Group.playground */,
 				89FEDD471EAD883100FDA9E2 /* 24. Swap Nodes in Pairs.playground */,
 				89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */,
