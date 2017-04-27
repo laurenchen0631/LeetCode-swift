@@ -32,6 +32,7 @@
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
 		894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; };
+		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
 		8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; };
 		896E69541CD533350049FEF4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +87,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */,
 				8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */,
 				8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */,
 				891254421EAF0461006B6D22 /* 27. Remove Element.playground */,

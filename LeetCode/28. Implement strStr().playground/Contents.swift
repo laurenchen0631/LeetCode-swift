@@ -18,7 +18,6 @@ func strStr(_ haystack: String, _ needle: String) -> Int {
     
     let needleArray = Array(needle.characters)
     let hayStackArray = Array(haystack.characters)
-    var needleIndex = 0
     
     guard hayStackArray.count >= needleLength else {
         return -1
