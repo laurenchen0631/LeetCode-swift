@@ -47,6 +47,7 @@
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
+		89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; };
 		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
 		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */,
 				8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */,
 				8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */,
 				8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */,
