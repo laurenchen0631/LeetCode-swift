@@ -28,6 +28,7 @@
 		892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
+		892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Search for a Range.playground"; sourceTree = "<group>"; };
 		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */,
 				89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */,
 				89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */,
 				89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */,
