@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
+		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
@@ -91,6 +92,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */,
 				892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */,
 				89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */,
 				89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */,
@@ -106,7 +108,6 @@
 				895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */,
 				892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */,
 				892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */,
-				896E69571CD533350049FEF4 /* main.swift */,
 				892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */,
 				8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */,
 				898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */,
@@ -117,15 +118,16 @@
 				89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */,
 				89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */,
 				897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */,
-				896E695E1CD533660049FEF4 /* 1. Two Sum.playground */,
-				896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */,
-				89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */,
-				8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */,
-				894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */,
-				89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */,
-				897260041CE0C824003E37BC /* 7. Reverse Integer .playground */,
-				899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */,
 				8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */,
+				899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */,
+				897260041CE0C824003E37BC /* 7. Reverse Integer .playground */,
+				89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */,
+				894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */,
+				8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */,
+				89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */,
+				896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */,
+				896E695E1CD533660049FEF4 /* 1. Two Sum.playground */,
+				896E69571CD533350049FEF4 /* main.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
