@@ -145,7 +145,6 @@ class Board {
                     columns[columnIndex].insert(grid.num)
                     boxes[grid.boxIndex].insert(grid.num)
                     
-                    numResults += 1
                     unupdateTmp.append((rowIndex, columnIndex))
                 }
             }
@@ -253,10 +252,9 @@ class Board {
 }
 
 func solveSudoku(_ board: inout [[Character]]) {
-    var boardInst = Board(board)
-    boardInst.describe()
+    let boardInst = Board(board)
+//    boardInst.describe()
     boardInst.solve()
-
     boardInst.saveTo(charArray: &board)
 }
 
