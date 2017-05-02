@@ -57,6 +57,7 @@
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
 		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
+		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "33. Search in Rotated Sorted Array.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
@@ -95,6 +96,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */,
 				89EB09311EB8158D0093E288 /* 38. Count and Say.playground */,
 				8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */,
 				8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */,
