@@ -40,6 +40,7 @@
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
 		8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; };
+		896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "45. Jump Game II.playground"; sourceTree = "<group>"; };
 		896E69541CD533350049FEF4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		896E69571CD533350049FEF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
@@ -101,6 +102,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */,
 				89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */,
 				89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */,
 				89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */,
