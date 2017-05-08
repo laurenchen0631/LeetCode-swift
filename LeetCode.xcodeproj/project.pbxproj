@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
+		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
@@ -102,6 +104,8 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				890268621EC00B7000C239E6 /* 47. Permutations II.playground */,
+				890268611EC007C200C239E6 /* 46. Permutations.playground */,
 				896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */,
 				89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */,
 				89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */,
