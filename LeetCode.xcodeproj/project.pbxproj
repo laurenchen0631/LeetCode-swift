@@ -50,11 +50,12 @@
 		897260041CE0C824003E37BC /* 7. Reverse Integer .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer .playground"; sourceTree = "<group>"; };
 		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "43. Multiply Strings.playground"; sourceTree = "<group>"; };
-		898395481EA8DC34002ECAC7 /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "13. Roman to Integer.playground"; path = "../13. Roman to Integer.playground"; sourceTree = "<group>"; };
 		898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; };
-		8983954A1EA8DC8B002ECAC7 /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "16. 3Sum Closest.playground"; path = "../16. 3Sum Closest.playground"; sourceTree = "<group>"; };
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
+		8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; };
+		8991644E1EC2A9CD00C4E3CC /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; };
+		8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */,
 				890268621EC00B7000C239E6 /* 47. Permutations II.playground */,
 				890268611EC007C200C239E6 /* 46. Permutations.playground */,
 				896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */,
@@ -135,12 +137,12 @@
 				892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */,
 				8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */,
 				898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */,
-				8983954A1EA8DC8B002ECAC7 /* 16. 3Sum Closest.playground */,
+				8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */,
 				89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */,
 				898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */,
-				898395481EA8DC34002ECAC7 /* 13. Roman to Integer.playground */,
-				89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */,
+				8991644E1EC2A9CD00C4E3CC /* 13. Roman to Integer.playground */,
 				89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */,
+				89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */,
 				897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */,
 				8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */,
 				899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */,
