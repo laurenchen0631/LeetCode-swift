@@ -27,6 +27,7 @@
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
+		8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
 		8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "37. Sudoku Solver.playground"; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "44. Wildcard Matching.playground"; sourceTree = "<group>"; };
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
+		89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "50. Pow(x, n).playground"; sourceTree = "<group>"; };
 		8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; };
 		896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "45. Jump Game II.playground"; sourceTree = "<group>"; };
 		896E69541CD533350049FEF4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,6 +107,8 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */,
+				8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */,
 				8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */,
 				890268621EC00B7000C239E6 /* 47. Permutations II.playground */,
 				890268611EC007C200C239E6 /* 46. Permutations.playground */,
