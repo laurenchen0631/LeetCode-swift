@@ -23,11 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "52. N-Queens II.playground"; sourceTree = "<group>"; };
 		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
 		8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; };
+		89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "51. N-Queens.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
 		8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "37. Sudoku Solver.playground"; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
 		892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Search for a Range.playground"; sourceTree = "<group>"; };
 		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
+		893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; };
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
 		894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; };
@@ -107,6 +110,9 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */,
+				89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */,
+				89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */,
 				89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */,
 				8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */,
 				8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */,

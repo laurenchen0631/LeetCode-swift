@@ -14,7 +14,7 @@ func myPow(_ x: Double, _ n: Int) -> Double {
     var base = x
     
     while 1 < power {
-        if power % 2 == 1 {
+        if power & 1 == 1 {
             result *= base
         }
         base *= base
