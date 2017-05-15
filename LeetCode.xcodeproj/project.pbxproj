@@ -52,6 +52,7 @@
 		896E69571CD533350049FEF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
 		896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; };
+		8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "54. Spiral Matrix.playground"; sourceTree = "<group>"; };
 		897260041CE0C824003E37BC /* 7. Reverse Integer .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer .playground"; sourceTree = "<group>"; };
 		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "43. Multiply Strings.playground"; sourceTree = "<group>"; };
@@ -110,6 +111,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */,
 				893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */,
 				89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */,
 				89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */,
