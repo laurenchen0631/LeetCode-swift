@@ -70,6 +70,7 @@
 		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
 		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
+		89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
 		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
 		89EB09331EB973690093E288 /* 40. Combination Sum II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "40. Combination Sum II.playground"; sourceTree = "<group>"; };
@@ -111,6 +112,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */,
 				8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */,
 				893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */,
 				89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */,
