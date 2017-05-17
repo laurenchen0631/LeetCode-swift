@@ -41,6 +41,7 @@
 		893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; };
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
+		8941FA171ECBE68F008DFC71 /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; };
 		894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; };
 		89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "44. Wildcard Matching.playground"; sourceTree = "<group>"; };
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
@@ -112,6 +113,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8941FA171ECBE68F008DFC71 /* 56. Merge Intervals.playground */,
 				89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */,
 				8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */,
 				893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */,
