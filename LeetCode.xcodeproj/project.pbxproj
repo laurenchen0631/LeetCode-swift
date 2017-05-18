@@ -29,6 +29,7 @@
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
 		8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; };
+		8916AA141ECD31CE00BB5B63 /* 57. Insert Interval.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "57. Insert Interval.playground"; sourceTree = "<group>"; };
 		89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "51. N-Queens.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
@@ -113,6 +114,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8916AA141ECD31CE00BB5B63 /* 57. Insert Interval.playground */,
 				8941FA171ECBE68F008DFC71 /* 56. Merge Intervals.playground */,
 				89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */,
 				8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */,
