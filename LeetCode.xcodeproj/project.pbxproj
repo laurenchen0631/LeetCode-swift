@@ -27,6 +27,7 @@
 		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
 		890C6E681ECE817C00F98E58 /* 58. Length of Last Word.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "58. Length of Last Word.playground"; sourceTree = "<group>"; };
+		89123C1E1ED1357100609BCC /* 60. Permutation Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "60. Permutation Sequence.playground"; sourceTree = "<group>"; };
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		891254421EAF0461006B6D22 /* 27. Remove Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "27. Remove Element.playground"; sourceTree = "<group>"; };
 		8912A3201EC3EEF20024A61F /* 49. Group Anagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "49. Group Anagrams.playground"; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89123C1E1ED1357100609BCC /* 60. Permutation Sequence.playground */,
 				8939A8811ECFDAEF002961F2 /* 59. Spiral Matrix II.playground */,
 				890C6E681ECE817C00F98E58 /* 58. Length of Last Word.playground */,
 				8916AA141ECD31CE00BB5B63 /* 57. Insert Interval.playground */,
