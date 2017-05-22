@@ -70,6 +70,7 @@
 		8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
+		89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "62. Unique Paths.playground"; sourceTree = "<group>"; };
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
 		89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; };
 		89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */,
 				8915A86E1ED26C5E00B06069 /* 61. Rotate List.playground */,
 				89123C1E1ED1357100609BCC /* 60. Permutation Sequence.playground */,
 				8939A8811ECFDAEF002961F2 /* 59. Spiral Matrix II.playground */,
