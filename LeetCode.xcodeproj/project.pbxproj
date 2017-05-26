@@ -50,6 +50,7 @@
 		894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; };
 		89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "44. Wildcard Matching.playground"; sourceTree = "<group>"; };
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
+		8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "65. Valid Number.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
 		89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "50. Pow(x, n).playground"; sourceTree = "<group>"; };
 		8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; };
@@ -121,6 +122,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */,
 				89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */,
 				89CA28C61ED511B4000E9832 /* 63. Unique Paths II.playground */,
 				89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */,
