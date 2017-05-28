@@ -71,6 +71,7 @@
 		8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "66. Plus One.playground"; sourceTree = "<group>"; };
+		899F0A001EDA781B00329315 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
 		89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "62. Unique Paths.playground"; sourceTree = "<group>"; };
 		89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "64. Minimum Path Sum.playground"; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				899F0A001EDA781B00329315 /* 67. Add Binary.playground */,
 				899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */,
 				8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */,
 				89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */,
