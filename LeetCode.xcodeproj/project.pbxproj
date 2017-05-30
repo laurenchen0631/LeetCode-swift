@@ -44,6 +44,7 @@
 		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
 		8939A8811ECFDAEF002961F2 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; };
 		893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; };
+		893F08351EDCF2A700A9A7CB /* 69. Sqrt(x).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "69. Sqrt(x).playground"; sourceTree = "<group>"; };
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
 		8941FA171ECBE68F008DFC71 /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; };
@@ -125,6 +126,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				893F08351EDCF2A700A9A7CB /* 69. Sqrt(x).playground */,
 				8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */,
 				899F0A001EDA781B00329315 /* 67. Add Binary.playground */,
 				899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */,

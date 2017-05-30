@@ -33,4 +33,4 @@ def findMedianSortedArrays(nums1, nums2):
         ) / 2
 
 
-print(findMedianSortedArrays([1,3], [2]))
+print(findMedianSortedArrays([1, 3], [2]))
