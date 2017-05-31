@@ -1,6 +1,3 @@
-// : Playground - noun: a place where people can play
-
-import UIKit
 
 /**
  * You are given two linked lists representing two non-negative numbers.
