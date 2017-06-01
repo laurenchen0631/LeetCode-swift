@@ -26,6 +26,7 @@
 		89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "52. N-Queens II.playground"; sourceTree = "<group>"; };
 		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
+		890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "72. Edit Distance.playground"; sourceTree = "<group>"; };
 		890C6E681ECE817C00F98E58 /* 58. Length of Last Word.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "58. Length of Last Word.playground"; sourceTree = "<group>"; };
 		89123C1E1ED1357100609BCC /* 60. Permutation Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "60. Permutation Sequence.playground"; sourceTree = "<group>"; };
 		891254411EAEF24D006B6D22 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
@@ -127,6 +128,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */,
 				89DDC9B61EDE50780079AABB /* 70. Climbing Stairs.playground */,
 				893F08351EDCF2A700A9A7CB /* 69. Sqrt(x).playground */,
 				8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */,
