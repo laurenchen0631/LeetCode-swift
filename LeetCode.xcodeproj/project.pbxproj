@@ -51,6 +51,7 @@
 		8940643F1EB027BB00EFECB4 /* 29. Divide Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "29. Divide Two Integers.playground"; sourceTree = "<group>"; };
 		8941FA171ECBE68F008DFC71 /* 56. Merge Intervals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "56. Merge Intervals.playground"; sourceTree = "<group>"; };
 		894639DF1CDCAB990027531C /* 5. Longest Palindromic Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Longest Palindromic Substring.playground"; sourceTree = "<group>"; };
+		894E31091EE23D150063059B /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; };
 		89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "44. Wildcard Matching.playground"; sourceTree = "<group>"; };
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
 		8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "68. Text Justification.playground"; sourceTree = "<group>"; };
@@ -130,6 +131,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				894E31091EE23D150063059B /* 74. Search a 2D Matrix.playground */,
 				89DDBEA41EE1031C003B8DCD /* 73. Set Matrix Zeroes.playground */,
 				890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */,
 				890763431EDFB719000DFFC2 /* 71. Simplify Path.playground */,
