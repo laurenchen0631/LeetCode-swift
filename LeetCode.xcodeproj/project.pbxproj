@@ -81,6 +81,7 @@
 		89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "62. Unique Paths.playground"; sourceTree = "<group>"; };
 		89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "64. Minimum Path Sum.playground"; sourceTree = "<group>"; };
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
+		89C4136A1EE396160080378A /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; };
 		89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; };
 		89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; };
 		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
@@ -131,6 +132,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89C4136A1EE396160080378A /* 75. Sort Colors.playground */,
 				894E31091EE23D150063059B /* 74. Search a 2D Matrix.playground */,
 				89DDBEA41EE1031C003B8DCD /* 73. Set Matrix Zeroes.playground */,
 				890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */,
