@@ -99,6 +99,7 @@
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "33. Search in Rotated Sorted Array.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
+		89F431961EE7902B00C7E24E /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
 		89FEDD471EAD883100FDA9E2 /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; };
 		89FEDD481EAD952700FDA9E2 /* 25. Reverse Nodes in k-Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "25. Reverse Nodes in k-Group.playground"; sourceTree = "<group>"; };
@@ -134,6 +135,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89F431961EE7902B00C7E24E /* 78. Subsets.playground */,
 				897911A21EE77D6100B541C8 /* 77. Combinations.playground */,
 				897301201EE4EFF70054D35C /* 76. Minimum Window Substring.playground */,
 				89C4136A1EE396160080378A /* 75. Sort Colors.playground */,
