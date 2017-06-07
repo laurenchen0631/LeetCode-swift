@@ -69,6 +69,7 @@
 		897301201EE4EFF70054D35C /* 76. Minimum Window Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "76. Minimum Window Substring.playground"; sourceTree = "<group>"; };
 		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "43. Multiply Strings.playground"; sourceTree = "<group>"; };
+		897911A21EE77D6100B541C8 /* 77. Combinations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "77. Combinations.playground"; sourceTree = "<group>"; };
 		898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; };
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
@@ -133,6 +134,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				897911A21EE77D6100B541C8 /* 77. Combinations.playground */,
 				897301201EE4EFF70054D35C /* 76. Minimum Window Substring.playground */,
 				89C4136A1EE396160080378A /* 75. Sort Colors.playground */,
 				894E31091EE23D150063059B /* 74. Search a 2D Matrix.playground */,
