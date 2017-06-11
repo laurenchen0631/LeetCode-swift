@@ -15,9 +15,9 @@ func addBinary(_ a: String, _ b: String) -> String {
 //    var aIndex = digitsA.count - 1
 //    var bIndex = digitsB.count - 1
 //    
-//    var carry = false
-//    var digits: [Character] = []
-//    
+    var carry = false
+    var digits: [Character] = []
+//
 //    
 //    while aIndex >= 0 || bIndex >= 0 || carry {
 //        let digitA: Character = aIndex >= 0 ? digitsA[aIndex] : "0"
