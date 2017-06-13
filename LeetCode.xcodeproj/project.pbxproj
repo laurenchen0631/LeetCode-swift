@@ -48,6 +48,7 @@
 		892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Search for a Range.playground"; sourceTree = "<group>"; };
 		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
 		8939A8811ECFDAEF002961F2 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; };
+		8939E8B91EF0319700719DDA /* 85. Maximal Rectangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "85. Maximal Rectangle.playground"; sourceTree = "<group>"; };
 		893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; };
 		893F08351EDCF2A700A9A7CB /* 69. Sqrt(x).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "69. Sqrt(x).playground"; sourceTree = "<group>"; };
 		8940643E1EB01C4C00EFECB4 /* 28. Implement strStr().playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Implement strStr().playground"; sourceTree = "<group>"; };
@@ -141,6 +142,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8939E8B91EF0319700719DDA /* 85. Maximal Rectangle.playground */,
 				897D1E1D1EEEE25900EA318C /* 84. Largest Rectangle in Histogram.playground */,
 				890203C91EECCBFC0045FE8A /* 83. Remove Duplicates from Sorted List.playground */,
 				890203C81EECC38D0045FE8A /* 82. Remove Duplicates from Sorted List II.playground */,
