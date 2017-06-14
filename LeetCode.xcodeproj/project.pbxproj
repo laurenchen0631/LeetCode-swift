@@ -100,6 +100,7 @@
 		89DDC9B61EDE50780079AABB /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; };
 		89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; };
 		89E226A01EEB8C8A001ECBF1 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; };
+		89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "86. Partition List.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
 		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
 		89EB09331EB973690093E288 /* 40. Combination Sum II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "40. Combination Sum II.playground"; sourceTree = "<group>"; };
@@ -142,6 +143,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */,
 				8939E8B91EF0319700719DDA /* 85. Maximal Rectangle.playground */,
 				897D1E1D1EEEE25900EA318C /* 84. Largest Rectangle in Histogram.playground */,
 				890203C91EECCBFC0045FE8A /* 83. Remove Duplicates from Sorted List.playground */,
