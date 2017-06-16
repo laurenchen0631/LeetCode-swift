@@ -87,6 +87,7 @@
 		899F0A001EDA781B00329315 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
 		89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "62. Unique Paths.playground"; sourceTree = "<group>"; };
+		89B3145C1EF36A1B00D89C8F /* 88. Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "88. Merge Sorted Array.playground"; sourceTree = "<group>"; };
 		89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "64. Minimum Path Sum.playground"; sourceTree = "<group>"; };
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
 		89C4136A1EE396160080378A /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; };
@@ -144,6 +145,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89B3145C1EF36A1B00D89C8F /* 88. Merge Sorted Array.playground */,
 				8997B8491EF23795008E4185 /* 87. Scramble String.playground */,
 				89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */,
 				8939E8B91EF0319700719DDA /* 85. Maximal Rectangle.playground */,
