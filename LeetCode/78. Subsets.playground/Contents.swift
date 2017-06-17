@@ -28,19 +28,19 @@ func subsets(_ nums: [Int]) -> [[Int]] {
     return subset
 }
 
-func subsets2(_ nums: [Int]) -> [[Int]] {
-    let subsetCount = 1 << nums.count
-    var result: [[Int]] = Array(repeating: [], count: subsetCount)
-    
-    for i in 0 ..< subsetCount {
-        for j in 0 ..< nums.count {
-            if ( i & (1 << j)) != 0 {
-                result[i].append(nums[j])
-            }
-        }
-    }
-    return result
-}
+//func subsets2(_ nums: [Int]) -> [[Int]] {
+//    let subsetCount = 1 << nums.count
+//    var result: [[Int]] = Array(repeating: [], count: subsetCount)
+//    
+//    for i in 0 ..< subsetCount {
+//        for j in 0 ..< nums.count {
+//            if ( i & (1 << j)) != 0 {
+//                result[i].append(nums[j])
+//            }
+//        }
+//    }
+//    return result
+//}
 
 subsets([3,2,1])
-subsets2([1,2,3])
+//subsets2([1,2,3])
