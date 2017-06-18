@@ -60,6 +60,7 @@
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
 		8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "68. Text Justification.playground"; sourceTree = "<group>"; };
 		8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "65. Valid Number.playground"; sourceTree = "<group>"; };
+		8958BF521EF608E000A58B26 /* 90. Subsets II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "90. Subsets II.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
 		89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "50. Pow(x, n).playground"; sourceTree = "<group>"; };
 		8969D35F1D00062C00569E85 /* 9. Palindrome Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "9. Palindrome Number.playground"; sourceTree = "<group>"; };
@@ -146,6 +147,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8958BF521EF608E000A58B26 /* 90. Subsets II.playground */,
 				89760B541EF4D29600875C24 /* 89. Gray Code.playground */,
 				89B3145C1EF36A1B00D89C8F /* 88. Merge Sorted Array.playground */,
 				8997B8491EF23795008E4185 /* 87. Scramble String.playground */,
