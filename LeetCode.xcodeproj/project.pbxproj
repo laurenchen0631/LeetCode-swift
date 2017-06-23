@@ -39,6 +39,7 @@
 		8915A86E1ED26C5E00B06069 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; };
 		8916AA141ECD31CE00BB5B63 /* 57. Insert Interval.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "57. Insert Interval.playground"; sourceTree = "<group>"; };
 		891F5A121EEA2AB00006CE6D /* 80. Remove Duplicates from Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "80. Remove Duplicates from Sorted Array II.playground"; sourceTree = "<group>"; };
+		89213DB11EFB6CAC005D1509 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; };
 		89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "51. N-Queens.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
@@ -150,6 +151,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89213DB11EFB6CAC005D1509 /* 94. Binary Tree Inorder Traversal.playground */,
 				89014B7E1EFA138400D7427D /* 93. Restore IP Addresses.playground */,
 				89EBD5AD1EF8B0CB00ECDE41 /* 92. Reverse Linked List II.playground */,
 				89C522371EF76C8A00090F15 /* 91. Decode Ways.playground */,
