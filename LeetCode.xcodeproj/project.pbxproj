@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		89000EAB1EC6AED1000809DC /* 52. N-Queens II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "52. N-Queens II.playground"; sourceTree = "<group>"; };
 		89014B7E1EFA138400D7427D /* 93. Restore IP Addresses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "93. Restore IP Addresses.playground"; sourceTree = "<group>"; };
+		8901EEC31EFF569300D91177 /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; };
 		890203C81EECC38D0045FE8A /* 82. Remove Duplicates from Sorted List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "82. Remove Duplicates from Sorted List II.playground"; sourceTree = "<group>"; };
 		890203C91EECCBFC0045FE8A /* 83. Remove Duplicates from Sorted List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "83. Remove Duplicates from Sorted List.playground"; sourceTree = "<group>"; };
 		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
@@ -154,6 +155,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8901EEC31EFF569300D91177 /* 98. Validate Binary Search Tree.playground */,
 				89F83CBE1EFE0DF100AD3FBB /* 97. Interleaving String.playground */,
 				89213DB31EFCD0FF005D1509 /* 96. Unique Binary Search Trees.playground */,
 				89213DB21EFCC4A1005D1509 /* 95. Unique Binary Search Trees II.playground */,
