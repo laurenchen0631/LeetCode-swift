@@ -86,6 +86,7 @@
 		898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; };
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
+		898A5CAB1F02997C001A91EF /* 100. Same Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100. Same Tree.playground"; sourceTree = "<group>"; };
 		8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; };
 		8991644E1EC2A9CD00C4E3CC /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; };
 		8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
@@ -156,6 +157,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				898A5CAB1F02997C001A91EF /* 100. Same Tree.playground */,
 				891634731F012B1B00AA04F0 /* 99. Recover Binary Search Tree.playground */,
 				8901EEC31EFF569300D91177 /* 98. Validate Binary Search Tree.playground */,
 				89F83CBE1EFE0DF100AD3FBB /* 97. Interleaving String.playground */,
