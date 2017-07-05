@@ -30,6 +30,7 @@
 		890203C91EECCBFC0045FE8A /* 83. Remove Duplicates from Sorted List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "83. Remove Duplicates from Sorted List.playground"; sourceTree = "<group>"; };
 		890268611EC007C200C239E6 /* 46. Permutations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "46. Permutations.playground"; sourceTree = "<group>"; };
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
+		89047F4B1F0D1A4500F317A0 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.playground"; sourceTree = "<group>"; };
 		8904A5231F04C21300F5D941 /* 101. Symmetric Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "101. Symmetric Tree.playground"; sourceTree = "<group>"; };
 		890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "72. Edit Distance.playground"; sourceTree = "<group>"; };
 		890763431EDFB719000DFFC2 /* 71. Simplify Path.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "71. Simplify Path.playground"; sourceTree = "<group>"; };
@@ -161,6 +162,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89047F4B1F0D1A4500F317A0 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */,
 				8984A1531F0A745D005EC207 /* 104. Maximum Depth of Binary Tree.playground */,
 				891C07CA1F0897C800653B9F /* 103. Binary Tree Zigzag Level Order Traversal.playground */,
 				896020BF1F07343B005F3B60 /* 102. Binary Tree Level Order Traversal.playground */,
