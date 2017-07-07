@@ -31,10 +31,9 @@ func buildTreeHelper(
         return nil
     }
     
-    var nodeVal = preorder[preStart]
-    var node = TreeNode(nodeVal)
+    let nodeVal = preorder[preStart]
+    let node = TreeNode(nodeVal)
     
-
     var index = 0
     for i in inStart ... inEnd {
         if inorder[i] == nodeVal {
