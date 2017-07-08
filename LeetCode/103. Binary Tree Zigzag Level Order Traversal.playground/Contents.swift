@@ -49,7 +49,7 @@ func zigzagLevelOrder(_ root: TreeNode?) -> [[Int]] {
             if direction == .right {
                 group[i] = node.val
             }
-            else {
+            else { 
                 group[level.count - 1 - i] = node.val
             }
             
