@@ -88,6 +88,7 @@
 		89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "43. Multiply Strings.playground"; sourceTree = "<group>"; };
 		897911A21EE77D6100B541C8 /* 77. Combinations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "77. Combinations.playground"; sourceTree = "<group>"; };
 		897A174B1F13B20A00E12E12 /* 110. Balanced Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "110. Balanced Binary Tree.playground"; sourceTree = "<group>"; };
+		897A174C1F14609900E12E12 /* 111. Minimum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "111. Minimum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
 		897D1E1D1EEEE25900EA318C /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; };
 		898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; };
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
@@ -167,6 +168,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				897A174C1F14609900E12E12 /* 111. Minimum Depth of Binary Tree.playground */,
 				897A174B1F13B20A00E12E12 /* 110. Balanced Binary Tree.playground */,
 				898D967A1F11C2F600D5B48E /* 109. Convert Sorted List to Binary Search Tree.playground */,
 				898D96791F11BCFB00D5B48E /* 108. Convert Sorted Array to Binary Search Tree.playground */,
