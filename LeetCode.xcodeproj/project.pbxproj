@@ -128,6 +128,7 @@
 		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
 		89EB09331EB973690093E288 /* 40. Combination Sum II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "40. Combination Sum II.playground"; sourceTree = "<group>"; };
 		89EBD5AD1EF8B0CB00ECDE41 /* 92. Reverse Linked List II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "92. Reverse Linked List II.playground"; sourceTree = "<group>"; };
+		89EC1E621F189B8700D67D4D /* 112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "112. Path Sum.playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "33. Search in Rotated Sorted Array.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
@@ -168,6 +169,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89EC1E621F189B8700D67D4D /* 112. Path Sum.playground */,
 				897A174C1F14609900E12E12 /* 111. Minimum Depth of Binary Tree.playground */,
 				897A174B1F13B20A00E12E12 /* 110. Balanced Binary Tree.playground */,
 				898D967A1F11C2F600D5B48E /* 109. Convert Sorted List to Binary Search Tree.playground */,
