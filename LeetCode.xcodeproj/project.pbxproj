@@ -96,6 +96,7 @@
 		8984A1531F0A745D005EC207 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
 		898A5CAB1F02997C001A91EF /* 100. Same Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100. Same Tree.playground"; sourceTree = "<group>"; };
+		898AA5051F23492400C44E62 /* 114. Flatten Binary Tree to Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "114. Flatten Binary Tree to Linked List.playground"; sourceTree = "<group>"; };
 		898D96781F1081C700D5B48E /* 107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; };
 		898D96791F11BCFB00D5B48E /* 108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; };
 		898D967A1F11C2F600D5B48E /* 109. Convert Sorted List to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "109. Convert Sorted List to Binary Search Tree.playground"; sourceTree = "<group>"; };
@@ -170,6 +171,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				898AA5051F23492400C44E62 /* 114. Flatten Binary Tree to Linked List.playground */,
 				89729C381F1A35DA00F91EBC /* 113. Path Sum II.playground */,
 				89EC1E621F189B8700D67D4D /* 112. Path Sum.playground */,
 				897A174C1F14609900E12E12 /* 111. Minimum Depth of Binary Tree.playground */,
