@@ -80,6 +80,7 @@
 		896E69571CD533350049FEF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
 		896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; };
+		896F4F1C1F24EEC300F8125C /* 115. Distinct Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "115. Distinct Subsequences.playground"; sourceTree = "<group>"; };
 		8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "54. Spiral Matrix.playground"; sourceTree = "<group>"; };
 		897260041CE0C824003E37BC /* 7. Reverse Integer .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "7. Reverse Integer .playground"; sourceTree = "<group>"; };
 		89729C381F1A35DA00F91EBC /* 113. Path Sum II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "113. Path Sum II.playground"; sourceTree = "<group>"; };
@@ -171,6 +172,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				896F4F1C1F24EEC300F8125C /* 115. Distinct Subsequences.playground */,
 				898AA5051F23492400C44E62 /* 114. Flatten Binary Tree to Linked List.playground */,
 				89729C381F1A35DA00F91EBC /* 113. Path Sum II.playground */,
 				89EC1E621F189B8700D67D4D /* 112. Path Sum.playground */,
