@@ -71,6 +71,7 @@
 		8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "68. Text Justification.playground"; sourceTree = "<group>"; };
 		8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "65. Valid Number.playground"; sourceTree = "<group>"; };
 		8958BF521EF608E000A58B26 /* 90. Subsets II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "90. Subsets II.playground"; sourceTree = "<group>"; };
+		895EC2761F297C7F00746230 /* 119. Pascal's Triangle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "119. Pascal's Triangle II.playground"; sourceTree = "<group>"; };
 		895F815E1EAB1804000CF8D8 /* 22. Generate Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22. Generate Parentheses.playground"; sourceTree = "<group>"; };
 		896020BF1F07343B005F3B60 /* 102. Binary Tree Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "102. Binary Tree Level Order Traversal.playground"; sourceTree = "<group>"; };
 		89652C5C1EC54C5C00CBD36F /* 50. Pow(x, n).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "50. Pow(x, n).playground"; sourceTree = "<group>"; };
@@ -173,6 +174,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				895EC2761F297C7F00746230 /* 119. Pascal's Triangle II.playground */,
 				899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */,
 				896F4F1C1F24EEC300F8125C /* 115. Distinct Subsequences.playground */,
 				898AA5051F23492400C44E62 /* 114. Flatten Binary Tree to Linked List.playground */,
