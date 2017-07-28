@@ -97,6 +97,7 @@
 		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		8984A1531F0A745D005EC207 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
+		8988B7F31F2B6E8700BC0750 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; };
 		898A5CAB1F02997C001A91EF /* 100. Same Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "100. Same Tree.playground"; sourceTree = "<group>"; };
 		898AA5051F23492400C44E62 /* 114. Flatten Binary Tree to Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "114. Flatten Binary Tree to Linked List.playground"; sourceTree = "<group>"; };
 		898D96781F1081C700D5B48E /* 107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; };
@@ -174,6 +175,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8988B7F31F2B6E8700BC0750 /* 120. Triangle.playground */,
 				895EC2761F297C7F00746230 /* 119. Pascal's Triangle II.playground */,
 				899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */,
 				896F4F1C1F24EEC300F8125C /* 115. Distinct Subsequences.playground */,
