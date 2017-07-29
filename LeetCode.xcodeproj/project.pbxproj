@@ -115,6 +115,7 @@
 		89A89BF91ED3AC3200AC4166 /* 62. Unique Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "62. Unique Paths.playground"; sourceTree = "<group>"; };
 		89B3145C1EF36A1B00D89C8F /* 88. Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "88. Merge Sorted Array.playground"; sourceTree = "<group>"; };
 		89B4140F1ED66900008F81AA /* 64. Minimum Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "64. Minimum Path Sum.playground"; sourceTree = "<group>"; };
+		89B9EE1F1F2C728B0057B9F4 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; };
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
 		89C4136A1EE396160080378A /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; };
 		89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; };
@@ -175,6 +176,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89B9EE1F1F2C728B0057B9F4 /* 121. Best Time to Buy and Sell Stock.playground */,
 				8988B7F31F2B6E8700BC0750 /* 120. Triangle.playground */,
 				895EC2761F297C7F00746230 /* 119. Pascal's Triangle II.playground */,
 				899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */,
