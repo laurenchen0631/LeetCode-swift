@@ -33,7 +33,7 @@ func maxPathSum(_ root: TreeNode?) -> Int {
         return 0
     }
     
-    var pathSum = root!.val
+    var pathSum = root!.valz
     dfsMaxPath(root: root, pathSum: &pathSum)
     return pathSum
 }

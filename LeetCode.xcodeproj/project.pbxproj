@@ -141,6 +141,7 @@
 		89EC1E621F189B8700D67D4D /* 112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "112. Path Sum.playground"; sourceTree = "<group>"; };
 		89F0AC7F1CE09EE500F863D1 /* 6. ZigZag Conversion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6. ZigZag Conversion.playground"; sourceTree = "<group>"; };
 		89F108881EB46014000E804B /* 33. Search in Rotated Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "33. Search in Rotated Sorted Array.playground"; sourceTree = "<group>"; };
+		89F262BC1F36CA9B0049086B /* 125. Valid Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "125. Valid Palindrome.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
 		89F431961EE7902B00C7E24E /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
@@ -179,6 +180,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89F262BC1F36CA9B0049086B /* 125. Valid Palindrome.playground */,
 				894E41FE1F35BE0A0090FB6D /* 124. Binary Tree Maximum Path Sum.playground */,
 				893E5C7A1F2EC0060036377A /* 123. Best Time to Buy and Sell Stock III.playground */,
 				897A78591F2DB7E000171097 /* 122. Best Time to Buy and Sell Stock II.playground */,
