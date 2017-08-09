@@ -33,6 +33,7 @@
 		890268621EC00B7000C239E6 /* 47. Permutations II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "47. Permutations II.playground"; sourceTree = "<group>"; };
 		89047F4B1F0D1A4500F317A0 /* 105. Construct Binary Tree from Preorder and Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "105. Construct Binary Tree from Preorder and Inorder Traversal.playground"; sourceTree = "<group>"; };
 		8904A5231F04C21300F5D941 /* 101. Symmetric Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "101. Symmetric Tree.playground"; sourceTree = "<group>"; };
+		89058D391F3AA4880012755A /* 126. Word Ladder II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "126. Word Ladder II.playground"; sourceTree = "<group>"; };
 		890763421EDFAF70000DFFC2 /* 72. Edit Distance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "72. Edit Distance.playground"; sourceTree = "<group>"; };
 		890763431EDFB719000DFFC2 /* 71. Simplify Path.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "71. Simplify Path.playground"; sourceTree = "<group>"; };
 		890C6E681ECE817C00F98E58 /* 58. Length of Last Word.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "58. Length of Last Word.playground"; sourceTree = "<group>"; };
@@ -180,6 +181,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89058D391F3AA4880012755A /* 126. Word Ladder II.playground */,
 				89F262BC1F36CA9B0049086B /* 125. Valid Palindrome.playground */,
 				894E41FE1F35BE0A0090FB6D /* 124. Binary Tree Maximum Path Sum.playground */,
 				893E5C7A1F2EC0060036377A /* 123. Best Time to Buy and Sell Stock III.playground */,
