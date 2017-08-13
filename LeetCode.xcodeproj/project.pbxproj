@@ -147,6 +147,7 @@
 		89F262BC1F36CA9B0049086B /* 125. Valid Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "125. Valid Palindrome.playground"; sourceTree = "<group>"; };
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
 		89F431961EE7902B00C7E24E /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; };
+		89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "131. Palindrome Partitioning.playground"; sourceTree = "<group>"; };
 		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
 		89F83CBE1EFE0DF100AD3FBB /* 97. Interleaving String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "97. Interleaving String.playground"; sourceTree = "<group>"; };
 		89FEDD471EAD883100FDA9E2 /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; };
@@ -183,6 +184,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */,
 				890F32741F3F0474006C3FF5 /* 129. Sum Root to Leaf Numbers.playground */,
 				89119BDA1F3D44F100A62200 /* 128. Longest Consecutive Sequence.playground */,
 				89058D391F3AA4880012755A /* 126. Word Ladder II.playground */,
