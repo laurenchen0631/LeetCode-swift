@@ -46,6 +46,7 @@
 		8915A86E1ED26C5E00B06069 /* 61. Rotate List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "61. Rotate List.playground"; sourceTree = "<group>"; };
 		891634731F012B1B00AA04F0 /* 99. Recover Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "99. Recover Binary Search Tree.playground"; sourceTree = "<group>"; };
 		8916AA141ECD31CE00BB5B63 /* 57. Insert Interval.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "57. Insert Interval.playground"; sourceTree = "<group>"; };
+		8919E2F51F45304D00C082B6 /* 134. Gas Station.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "134. Gas Station.playground"; sourceTree = "<group>"; };
 		891C07CA1F0897C800653B9F /* 103. Binary Tree Zigzag Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "103. Binary Tree Zigzag Level Order Traversal.playground"; sourceTree = "<group>"; };
 		891F5A121EEA2AB00006CE6D /* 80. Remove Duplicates from Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "80. Remove Duplicates from Sorted Array II.playground"; sourceTree = "<group>"; };
 		89213DB11EFB6CAC005D1509 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; };
@@ -184,6 +185,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				8919E2F51F45304D00C082B6 /* 134. Gas Station.playground */,
 				89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */,
 				890F32741F3F0474006C3FF5 /* 129. Sum Root to Leaf Numbers.playground */,
 				89119BDA1F3D44F100A62200 /* 128. Longest Consecutive Sequence.playground */,
