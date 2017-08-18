@@ -116,6 +116,7 @@
 		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		8997B8491EF23795008E4185 /* 87. Scramble String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "87. Scramble String.playground"; sourceTree = "<group>"; };
 		899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
+		899B779F1F467F3700EB373D /* 135. Candy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "135. Candy.playground"; sourceTree = "<group>"; };
 		899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "66. Plus One.playground"; sourceTree = "<group>"; };
 		899F0A001EDA781B00329315 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				899B779F1F467F3700EB373D /* 135. Candy.playground */,
 				8919E2F51F45304D00C082B6 /* 134. Gas Station.playground */,
 				89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */,
 				890F32741F3F0474006C3FF5 /* 129. Sum Root to Leaf Numbers.playground */,
