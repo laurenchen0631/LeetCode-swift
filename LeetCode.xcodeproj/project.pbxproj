@@ -74,6 +74,7 @@
 		894E41FE1F35BE0A0090FB6D /* 124. Binary Tree Maximum Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "124. Binary Tree Maximum Path Sum.playground"; sourceTree = "<group>"; };
 		89512BDE1EBD54FF00467616 /* 44. Wildcard Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "44. Wildcard Matching.playground"; sourceTree = "<group>"; };
 		8952270C1EB1831A00D21AAC /* 30. Substring with Concatenation of All Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "30. Substring with Concatenation of All Words.playground"; sourceTree = "<group>"; };
+		895294E21F480BE8004D8B51 /* 136. Single Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "136. Single Number.playground"; sourceTree = "<group>"; };
 		8953A2A81EDC0A81008F6F8D /* 68. Text Justification.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "68. Text Justification.playground"; sourceTree = "<group>"; };
 		8957362E1ED8679B008EABC9 /* 65. Valid Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "65. Valid Number.playground"; sourceTree = "<group>"; };
 		8958BF521EF608E000A58B26 /* 90. Subsets II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "90. Subsets II.playground"; sourceTree = "<group>"; };
@@ -186,6 +187,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				895294E21F480BE8004D8B51 /* 136. Single Number.playground */,
 				899B779F1F467F3700EB373D /* 135. Candy.playground */,
 				8919E2F51F45304D00C082B6 /* 134. Gas Station.playground */,
 				89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */,
