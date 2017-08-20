@@ -53,6 +53,7 @@
 		89213DB21EFCC4A1005D1509 /* 95. Unique Binary Search Trees II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "95. Unique Binary Search Trees II.playground"; sourceTree = "<group>"; };
 		89213DB31EFCD0FF005D1509 /* 96. Unique Binary Search Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "96. Unique Binary Search Trees.playground"; sourceTree = "<group>"; };
 		89226F731EC69BBE0011E2C2 /* 51. N-Queens.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "51. N-Queens.playground"; sourceTree = "<group>"; };
+		892861AF1F49D471001A4425 /* 137. Single Number II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "137. Single Number II.playground"; sourceTree = "<group>"; };
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
 		8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "37. Sudoku Solver.playground"; sourceTree = "<group>"; };
@@ -187,6 +188,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				892861AF1F49D471001A4425 /* 137. Single Number II.playground */,
 				895294E21F480BE8004D8B51 /* 136. Single Number.playground */,
 				899B779F1F467F3700EB373D /* 135. Candy.playground */,
 				8919E2F51F45304D00C082B6 /* 134. Gas Station.playground */,
