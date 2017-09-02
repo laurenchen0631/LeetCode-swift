@@ -135,6 +135,7 @@
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
 		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
 		89CA28C61ED511B4000E9832 /* 63. Unique Paths II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "63. Unique Paths II.playground"; sourceTree = "<group>"; };
+		89D804721F5A3FFA004A6000 /* 143. Reorder List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "143. Reorder List.playground"; sourceTree = "<group>"; };
 		89DAF48D1EE8EC5D00286982 /* 79. Word Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "79. Word Search.playground"; sourceTree = "<group>"; };
 		89DDBEA41EE1031C003B8DCD /* 73. Set Matrix Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "73. Set Matrix Zeroes.playground"; sourceTree = "<group>"; };
 		89DDC9B61EDE50780079AABB /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; };
@@ -188,6 +189,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89D804721F5A3FFA004A6000 /* 143. Reorder List.playground */,
 				892861AF1F49D471001A4425 /* 137. Single Number II.playground */,
 				895294E21F480BE8004D8B51 /* 136. Single Number.playground */,
 				899B779F1F467F3700EB373D /* 135. Candy.playground */,
