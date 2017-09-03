@@ -140,6 +140,7 @@
 		89DDBEA41EE1031C003B8DCD /* 73. Set Matrix Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "73. Set Matrix Zeroes.playground"; sourceTree = "<group>"; };
 		89DDC9B61EDE50780079AABB /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; };
 		89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; };
+		89E1CFE51F5BC639005F37BA /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; };
 		89E226A01EEB8C8A001ECBF1 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; };
 		89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "86. Partition List.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
@@ -189,6 +190,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				89E1CFE51F5BC639005F37BA /* 144. Binary Tree Preorder Traversal.playground */,
 				89D804721F5A3FFA004A6000 /* 143. Reorder List.playground */,
 				892861AF1F49D471001A4425 /* 137. Single Number II.playground */,
 				895294E21F480BE8004D8B51 /* 136. Single Number.playground */,
