@@ -97,6 +97,7 @@
 		897442541EA0CB1A00D31E19 /* 10. Regular Expression Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10. Regular Expression Matching.playground"; sourceTree = "<group>"; };
 		89760B541EF4D29600875C24 /* 89. Gray Code.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "89. Gray Code.playground"; sourceTree = "<group>"; };
 		89775DEC1EBC10B1003528D2 /* 43. Multiply Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "43. Multiply Strings.playground"; sourceTree = "<group>"; };
+		897826131F5EC962007A4800 /* 145. Binary Tree Postorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "145. Binary Tree Postorder Traversal.playground"; sourceTree = "<group>"; };
 		897911A21EE77D6100B541C8 /* 77. Combinations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "77. Combinations.playground"; sourceTree = "<group>"; };
 		897A174B1F13B20A00E12E12 /* 110. Balanced Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "110. Balanced Binary Tree.playground"; sourceTree = "<group>"; };
 		897A174C1F14609900E12E12 /* 111. Minimum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "111. Minimum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
@@ -190,6 +191,7 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				897826131F5EC962007A4800 /* 145. Binary Tree Postorder Traversal.playground */,
 				89E1CFE51F5BC639005F37BA /* 144. Binary Tree Preorder Traversal.playground */,
 				89D804721F5A3FFA004A6000 /* 143. Reorder List.playground */,
 				892861AF1F49D471001A4425 /* 137. Single Number II.playground */,
