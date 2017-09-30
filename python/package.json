@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "whatwg-fetch": "^2.0.3"
+  }
+}
