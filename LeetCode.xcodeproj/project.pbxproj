@@ -122,6 +122,7 @@
 		899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
 		899B779F1F467F3700EB373D /* 135. Candy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "135. Candy.playground"; sourceTree = "<group>"; };
 		899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "66. Plus One.playground"; sourceTree = "<group>"; };
+		899F06491F807C0900FFD71A /* 152. Maximum Product Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "152. Maximum Product Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		899F0A001EDA781B00329315 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
 		899FEE5E1F6E62B10049A382 /* 148. Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "148. Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
@@ -145,6 +146,7 @@
 		89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; };
 		89E1CFE51F5BC639005F37BA /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; };
 		89E226A01EEB8C8A001ECBF1 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; };
+		89E37A3A1F8078E90080C5F7 /* 150. Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "150. Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "86. Partition List.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
 		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
@@ -193,6 +195,8 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				899F06491F807C0900FFD71A /* 152. Maximum Product Subarray.playground */,
+				89E37A3A1F8078E90080C5F7 /* 150. Evaluate Reverse Polish Notation.playground */,
 				899FEE5E1F6E62B10049A382 /* 148. Sort List.playground */,
 				892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */,
 				897826131F5EC962007A4800 /* 145. Binary Tree Postorder Traversal.playground */,
