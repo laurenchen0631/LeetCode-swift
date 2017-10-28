@@ -57,7 +57,7 @@
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
 		8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "37. Sudoku Solver.playground"; sourceTree = "<group>"; };
-		892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; };
+		892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
