@@ -17,7 +17,7 @@ import UIKit
 
 // The size of the Set is upper bounded by the size of the string n and the size of the charset/alphabet m.
 func lengthOfLongestSubstring(s: String) -> Int {
-	let sLength = s.characters.count
+	let sLength = s.count
 	var substringLength = 0
 	var maxLength = 0
 	var headNIndex = 0

@@ -57,12 +57,12 @@
 		8928A6861EB596C400587BB1 /* 35. Search Insert Position.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "35. Search Insert Position.playground"; sourceTree = "<group>"; };
 		8928A6871EB5C66F00587BB1 /* 36. Valid Sudoku.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "36. Valid Sudoku.playground"; sourceTree = "<group>"; };
 		8928A6881EB6CF8500587BB1 /* 37. Sudoku Solver.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "37. Sudoku Solver.playground"; sourceTree = "<group>"; };
-		892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; };
+		892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "147. Insertion Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		892A7C901EAB0AF70034C4C2 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; };
 		892A7C911EAB11290034C4C2 /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		892AB4231EA9ACF500DE9FB4 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; };
 		892B25961EB48C8100D38D6B /* 34. Search for a Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Search for a Range.playground"; sourceTree = "<group>"; };
-		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8930DF331CDB119700CE9070 /* 4. Median of Two Sorted Arrays .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Median of Two Sorted Arrays .playground"; sourceTree = "<group>"; };
 		8939A8811ECFDAEF002961F2 /* 59. Spiral Matrix II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "59. Spiral Matrix II.playground"; sourceTree = "<group>"; };
 		8939E8B91EF0319700719DDA /* 85. Maximal Rectangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "85. Maximal Rectangle.playground"; sourceTree = "<group>"; };
 		893A49A01EC7E6C100BEE1A9 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 		896D33811EBD5E3F00BF4D7A /* 45. Jump Game II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "45. Jump Game II.playground"; sourceTree = "<group>"; };
 		896E69541CD533350049FEF4 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		896E69571CD533350049FEF4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		896E695E1CD533660049FEF4 /* 1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1. Two Sum.playground"; sourceTree = "<group>"; };
 		896E695F1CD537710049FEF4 /* 2. Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2. Add Two Numbers.playground"; sourceTree = "<group>"; };
 		896F4F1C1F24EEC300F8125C /* 115. Distinct Subsequences.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "115. Distinct Subsequences.playground"; sourceTree = "<group>"; };
 		8970C96B1EC93FD4002A88EE /* 54. Spiral Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "54. Spiral Matrix.playground"; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 		897A78591F2DB7E000171097 /* 122. Best Time to Buy and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "122. Best Time to Buy and Sell Stock II.playground"; sourceTree = "<group>"; };
 		897D1E1D1EEEE25900EA318C /* 84. Largest Rectangle in Histogram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "84. Largest Rectangle in Histogram.playground"; sourceTree = "<group>"; };
 		898395491EA8DC78002ECAC7 /* 17. Letter Combinations of a Phone Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17. Letter Combinations of a Phone Number.playground"; sourceTree = "<group>"; };
-		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8983954B1EA8E43B002ECAC7 /* 18. 4Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18. 4Sum.playground"; sourceTree = "<group>"; };
 		8984A1531F0A745D005EC207 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
 		898541A51EA39E1B007D3AA0 /* 14. Longest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14. Longest Common Prefix.playground"; sourceTree = "<group>"; };
 		8988B7F31F2B6E8700BC0750 /* 120. Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "120. Triangle.playground"; sourceTree = "<group>"; };
@@ -117,11 +117,12 @@
 		8991644D1EC2A8C500C4E3CC /* 48. Rotate Image.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "48. Rotate Image.playground"; sourceTree = "<group>"; };
 		8991644E1EC2A9CD00C4E3CC /* 13. Roman to Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13. Roman to Integer.playground"; sourceTree = "<group>"; };
 		8991644F1EC2AA0C00C4E3CC /* 16. 3Sum Closest.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16. 3Sum Closest.playground"; sourceTree = "<group>"; };
-		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		899579121CF6CE340004216B /* 8. String to Integer (atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "8. String to Integer (atoi).playground"; sourceTree = "<group>"; };
 		8997B8491EF23795008E4185 /* 87. Scramble String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "87. Scramble String.playground"; sourceTree = "<group>"; };
 		899B1F721F282B4A00DD05A7 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
 		899B779F1F467F3700EB373D /* 135. Candy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "135. Candy.playground"; sourceTree = "<group>"; };
 		899E5E8C1ED9271E00BEE04B /* 66. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "66. Plus One.playground"; sourceTree = "<group>"; };
+		899F06491F807C0900FFD71A /* 152. Maximum Product Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "152. Maximum Product Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		899F0A001EDA781B00329315 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; };
 		899FEE5E1F6E62B10049A382 /* 148. Sort List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "148. Sort List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89A0F63F1EBB005A00F25C05 /* 42. Trapping Rain Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "42. Trapping Rain Water.playground"; sourceTree = "<group>"; };
@@ -132,9 +133,9 @@
 		89BA671D1EBAA8A1008C6AE9 /* 41. First Missing Positive.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "41. First Missing Positive.playground"; sourceTree = "<group>"; };
 		89C4136A1EE396160080378A /* 75. Sort Colors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "75. Sort Colors.playground"; sourceTree = "<group>"; };
 		89C4DFD21EB322F900086975 /* 31. Next Permutation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "31. Next Permutation.playground"; sourceTree = "<group>"; };
-		89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89C4DFD31EB3530F00086975 /* 32. Longest Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "32. Longest Valid Parentheses.playground"; sourceTree = "<group>"; };
 		89C522371EF76C8A00090F15 /* 91. Decode Ways.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "91. Decode Ways.playground"; sourceTree = "<group>"; };
-		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89C541FD1EA1FDF1008FCC27 /* 11. Container With Most Water.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11. Container With Most Water.playground"; sourceTree = "<group>"; };
 		89C541FE1EA1FDF1008FCC27 /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; };
 		89C68C2A1EAC5588009460B1 /* 23. Merge k Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23. Merge k Sorted Lists.playground"; sourceTree = "<group>"; };
 		89CA28C61ED511B4000E9832 /* 63. Unique Paths II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "63. Unique Paths II.playground"; sourceTree = "<group>"; };
@@ -145,6 +146,7 @@
 		89DF7BE41ECA967A00C7AAAB /* 55. Jump Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "55. Jump Game.playground"; sourceTree = "<group>"; };
 		89E1CFE51F5BC639005F37BA /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; };
 		89E226A01EEB8C8A001ECBF1 /* 81. Search in Rotated Sorted Array II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "81. Search in Rotated Sorted Array II.playground"; sourceTree = "<group>"; };
+		89E37A3A1F8078E90080C5F7 /* 150. Evaluate Reverse Polish Notation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "150. Evaluate Reverse Polish Notation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		89E7F70F1EF0C7C300475A20 /* 86. Partition List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "86. Partition List.playground"; sourceTree = "<group>"; };
 		89EB09311EB8158D0093E288 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; };
 		89EB09321EB8471F0093E288 /* 39. Combination Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "39. Combination Sum.playground"; sourceTree = "<group>"; };
@@ -157,7 +159,7 @@
 		89F3E6521EA471FA0017B13B /* 15. 3Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15. 3Sum.playground"; sourceTree = "<group>"; };
 		89F431961EE7902B00C7E24E /* 78. Subsets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "78. Subsets.playground"; sourceTree = "<group>"; };
 		89F450A31F40182B00D0A3DD /* 131. Palindrome Partitioning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "131. Palindrome Partitioning.playground"; sourceTree = "<group>"; };
-		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		89F7C01D1CD8FF0100BB5C84 /* 3. Longest Substring.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Longest Substring.playground"; sourceTree = "<group>"; };
 		89F83CBE1EFE0DF100AD3FBB /* 97. Interleaving String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "97. Interleaving String.playground"; sourceTree = "<group>"; };
 		89FEDD471EAD883100FDA9E2 /* 24. Swap Nodes in Pairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24. Swap Nodes in Pairs.playground"; sourceTree = "<group>"; };
 		89FEDD481EAD952700FDA9E2 /* 25. Reverse Nodes in k-Group.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "25. Reverse Nodes in k-Group.playground"; sourceTree = "<group>"; };
@@ -193,6 +195,8 @@
 		896E69561CD533350049FEF4 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				899F06491F807C0900FFD71A /* 152. Maximum Product Subarray.playground */,
+				89E37A3A1F8078E90080C5F7 /* 150. Evaluate Reverse Polish Notation.playground */,
 				899FEE5E1F6E62B10049A382 /* 148. Sort List.playground */,
 				892A465C1F6CBC07003AD02C /* 147. Insertion Sort List.playground */,
 				897826131F5EC962007A4800 /* 145. Binary Tree Postorder Traversal.playground */,
